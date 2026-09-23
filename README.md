@@ -81,7 +81,7 @@ The Lite build focuses on:
 - basic query filtering;
 - simple standalone deployment.
 
-The Hostly implementation adds the parts that make sense at network/hosting scale, including Hostly Edge, multiple service mappings, dispatcher logic, cached query replies and centralized rule management.
+The Hostly implementation adds the parts that make at network/hosting scale, including Hostly Edge, multiple service mappings, dispatcher logic, cached query replies and centralized rule management.
 
 ---
 
